@@ -1,16 +1,108 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Aisha Tarek</h1>
+<h3 align="center">Frontend Developer | React & Next.js Developer</h3>
 
-<!--
-**Aishatarek/AishaTarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Passionate Frontend Developer with experience building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, and modern frontend technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💻 Frontend Developer specializing in React.js, Next.js, and TypeScript
+- 🎯 Focused on building responsive, performant, and scalable web applications
+- 📚 Continuously learning Software Engineering, System Design, and Machine Learning
+- 👩‍🏫 Instructor at Digital Egypt Cubs Initiative (DECI)
+- 🌱 Currently exploring advanced frontend architecture and AI-powered applications
+- 💼 Open to Frontend, React.js, and Next.js opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux)
+
+### Backend & Database
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 💼 Professional Experience
+
+### Frontend Developer | RaR-IT
+📅 Jun 2025 - Present
+
+- Building landing pages, dashboards, and e-commerce solutions
+- Developing scalable React and Next.js applications
+- Optimizing performance and user experience
+
+### Frontend Developer | Storeus
+📅 Dec 2024 - May 2025
+
+- Developed modern UI components
+- Improved application responsiveness and usability
+
+### Frontend Developer | Extronnect
+📅 Mar 2024 - Dec 2024
+
+- Worked on frontend development and API integrations
+- Built reusable React components
+
+### Freelancer Full Stack Developer
+📅 Jan 2021 - Mar 2024
+
+- Developed custom websites and web applications
+- Worked with React, Laravel, PHP, and MySQL
+
+---
+
+## 📚 Education & Training
+
+- 🎓 Digital Egypt Program – Data Science
+- 🎓 NTI Machine Learning Training
+- 🎓 DEPI Program
+- 👩‍🏫 Digital Egypt Cubs Initiative (DECI) Instructor
+
+---
+
+## 🌟 Areas of Interest
+
+- Frontend Engineering
+- React Ecosystem
+- Next.js Applications
+- Web Performance Optimization
+- UI/UX Development
+- Artificial Intelligence
+- Machine Learning
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: Add Your LinkedIn URL
+- 🌐 Portfolio: Add Your Portfolio URL
+- 📧 Email: Add Your Email
+
+---
+
+<p align="center">
+⭐ Building modern web experiences with clean code and great user experience.
+</p>
