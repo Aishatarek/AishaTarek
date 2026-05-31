@@ -43,36 +43,6 @@ Passionate Frontend Developer with experience building modern, scalable, and use
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
----
-
-## 💼 Professional Experience
-
-### Frontend Developer | RaR-IT
-📅 Jun 2025 - Present
-
-- Building landing pages, dashboards, and e-commerce solutions
-- Developing scalable React and Next.js applications
-- Optimizing performance and user experience
-
-### Frontend Developer | Storeus
-📅 Dec 2024 - May 2025
-
-- Developed modern UI components
-- Improved application responsiveness and usability
-
-### Frontend Developer | Extronnect
-📅 Mar 2024 - Dec 2024
-
-- Worked on frontend development and API integrations
-- Built reusable React components
-
-### Freelancer Full Stack Developer
-📅 Jan 2021 - Mar 2024
-
-- Developed custom websites and web applications
-- Worked with React, Laravel, PHP, and MySQL
-
----
 
 ## 📚 Education & Training
 
@@ -97,9 +67,9 @@ Passionate Frontend Developer with experience building modern, scalable, and use
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: Add Your LinkedIn URL
-- 🌐 Portfolio: Add Your Portfolio URL
-- 📧 Email: Add Your Email
+- 💼 LinkedIn: www.linkedin.com/in/aisha-tarek-0ab2031bb
+- 🌐 Portfolio: https://aisha-tarek.vercel.app/
+- 📧 Email: aishatarek83@gmail.com
 
 ---
 
