@@ -4,6 +4,11 @@
 <p align="center">
 Passionate Frontend Developer with experience building modern, scalable, and user-friendly web applications using React, Next.js, TypeScript, and modern frontend technologies.
 </p>
+<p align="center">
+  <a href="https://user-badge.committers.top/egypt_private/Aishatarek">
+    <img src="https://user-badge.committers.top/egypt_private/Aishatarek.svg" alt="committers.top Egypt ranking" />
+  </a>
+</p>
 
 ---
 
