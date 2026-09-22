@@ -9,7 +9,6 @@ Passionate Frontend Developer with experience building modern, scalable, and use
     <img src="https://user-badge.committers.top/egypt_private/Aishatarek.svg" alt="committers.top Egypt ranking" />
   </a>
 </p>
----
 
 ## 🚀 About Me
 
