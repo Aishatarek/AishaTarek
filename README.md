@@ -16,7 +16,6 @@ Passionate Frontend Developer with experience building modern, scalable, and use
 - 💻 Frontend Developer specializing in React.js, Next.js, and TypeScript
 - 🎯 Focused on building responsive, performant, and scalable web applications
 - 📚 Continuously learning Software Engineering, System Design, and Machine Learning
-- 👩‍🏫 Instructor at Digital Egypt Cubs Initiative (DECI)
 - 🌱 Currently exploring advanced frontend architecture and AI-powered applications
 - 💼 Open to Frontend, React.js, and Next.js opportunities
 
